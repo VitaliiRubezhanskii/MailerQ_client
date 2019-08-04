@@ -13,7 +13,7 @@ public class Main {
 
         final String fromEmail = "vitalii.rubizhanskyi@geckodynamics.com";
         final String password = "Vitalik@1992";
-        final String toEmail = "vitalii.rubezhanskii@gmail.com";
+        final String toEmail = "vitalii.rubezhanskii@gmail.com, vitaliy.rubizhanskyi@gmail.com";
 
         System.out.println("SSLEmail Start");
         Properties props = new Properties();
